@@ -7,7 +7,9 @@
     "start": "nodemon src/index.js"
   },
   "dependencies": {
-    "express": "4.17.1"
+    "express": "4.17.1",
+    "follow-redirects": "1.10.0",
+    "unirest": "0.6.0"
   },
   "devDependencies": {
     "nodemon": "1.18.4"
